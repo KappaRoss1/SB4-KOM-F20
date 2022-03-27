@@ -21,8 +21,8 @@
     </properties>
 
     <dependencies>
-<!--        <dependency>
-            <groupId>org.netbeans.cluster</groupId>
+        <!-- <dependency>
+           <groupId>org.netbeans.cluster</groupId>
             <artifactId>platform</artifactId>
             <version>${netbeans.version}</version>
             <type>pom</type>

@@ -58,6 +58,10 @@ public class ExtendedDictionary implements Dictionary {
                 "and deleting data that attempts to use the common " +
                 "vocabulary of the HTTP protocol; Representational State " +
                 "Transfer");
+        map.put(
+            "Scroll",
+            "single page binded by 2 sticks"
+        );
     }
 
     @Override
