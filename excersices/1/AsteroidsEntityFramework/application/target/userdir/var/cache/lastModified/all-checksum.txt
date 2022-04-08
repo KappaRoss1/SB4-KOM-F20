@@ -1,0 +1,13 @@
+platform=1649456299375
+cluster.asteroidsentityframework=1649456299374
+cluster.bin=1649456299374
+cluster.etc=1649456299374
+cluster.extra=1649456299374
+cluster.java=1649456299374
+cluster.platform=1649456299375
+user=1649456299375
+crc=33
+locale=da_DK
+branding=asteroidsentityframework
+java.version=1.8.0_261
+java.vm.version=25.261-b12

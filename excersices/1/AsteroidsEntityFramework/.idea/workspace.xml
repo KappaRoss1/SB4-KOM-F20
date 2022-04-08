@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6af5b3bf-7588-4bb9-a9ca-c0837b6881b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroidSystem/AsteroidProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/AssetsJarFileResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/JarFileHandleStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyControlSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/.idea/libraries/Maven__org_netbeans_api_org_netbeans_api_annotations_common_RELEASE110.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsEntityFramework/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsEntityFramework/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/BulletControlSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsEntityFramework/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/BulletPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsEntityFramework/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/TimerPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Asteroid/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Asteroid/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroid/AsteroidSplitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroid/AsteroidSplitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Collision/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Collision/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/SplitterPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/SplitterPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/resources/META-INF/services/dk.sdu.mmmi.cbse.common.services.IGamePluginService" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Enemy/src/main/resources/META-INF/services/dk.sdu.mmmi.cbse.common.services.IGamePluginService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaLab/AsteroidsEntityFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/Core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/Core/src/main/java/dk/sdu/mmmi/cbse/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/Core/src/main/java/dk/sdu/mmmi/cbse/managers/GameInputProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/Core/src/main/nbm/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/Core/src/main/resources/dk/sdu/mmmi/cbse/core/Bundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/application/src/test/java/dk/sdu/mmmi/cbse/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/branding/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/branding/src/main/nbm/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/branding/src/main/resources/dk/sdu/mmmi/cbse/branding/Bundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Netbeanslab1/AsteroidsNetbeansModules/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="27W1CUtmmXkDURfuzc84Z3O2SAc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidEntityFramework\CommonBullet\src\main\java\dk\sdu\mmmi\cbse\commonbullet" />
+      <recent name="C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidEntityFramework\CommonAsteroids\src\main\java\dk\sdu\mmmi\cbse\commonasteroids" />
+      <recent name="C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidEntityFramework\Bullet\src\main\java\dk\sdu\mmmi\cbse\bullet" />
+      <recent name="C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidEntityFramework\Common\src\main\java\dk\sdu\mmmi\cbse\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidEntityFramework\Core\src\main\resources\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af5b3bf-7588-4bb9-a9ca-c0837b6881b5" name="Default Changelist" comment="" />
+      <created>1649420901835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649420901835</updated>
+      <workItem from="1649420903099" duration="101000" />
+      <workItem from="1649421018701" duration="598000" />
+      <workItem from="1649424835646" duration="6671000" />
+      <workItem from="1649431585295" duration="9669000" />
+      <workItem from="1649443243841" duration="3729000" />
+      <workItem from="1649447298060" duration="978000" />
+      <workItem from="1649448482915" duration="7790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

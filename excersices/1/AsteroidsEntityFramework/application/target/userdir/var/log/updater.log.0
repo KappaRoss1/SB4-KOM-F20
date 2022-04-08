@@ -1,0 +1,14 @@
+apr. 09, 2022 12:15:52 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+apr. 09, 2022 12:15:52 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidsEntityFramework\application\target\userdir\update\deactivate\to_disable.txt
+apr. 09, 2022 12:15:52 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidsEntityFramework\application\target\userdir\update\deactivate\to_disable.txt deleted.
+apr. 09, 2022 12:15:52 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidsEntityFramework\application\target\userdir\update\deactivate deleted.
+apr. 09, 2022 12:15:53 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidsEntityFramework\application\target\userdir\update deleted.
+apr. 09, 2022 12:15:53 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidsEntityFramework\application\target\userdir deleted.
+apr. 09, 2022 12:15:53 AM org.netbeans.updater.ModuleDeactivator writeStringToFile
+INFO: File C:\Users\acelu\Documents\Gittest\SB4-KOM-F20\excersices\1\AsteroidsEntityFramework\application\target\userdir\config\Modules\dk-sdu-mmmi-cbse-Enemy.xml modified.
