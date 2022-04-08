@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.api:org-netbeans-libs-junit4:RELEASE126">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-netbeans-libs-junit4/RELEASE126/org-netbeans-libs-junit4-RELEASE126.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-netbeans-libs-junit4/RELEASE126/org-netbeans-libs-junit4-RELEASE126-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-netbeans-libs-junit4/RELEASE126/org-netbeans-libs-junit4-RELEASE126-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
